@@ -1,8 +1,5 @@
-<img width="223" height="223" alt="images" src="https://github.com/user-attachments/assets/8f9c19a5-fa12-4f38-958c-5cbb5c7f0854" />
-
-<!-- Inserta aquí comentarios ocultos -->
 ## Hi there 👋
-
+<!-- Inserta aquí comentarios ocultos -->
 I am a macroeconomist specializing in international finance, macroeconomic modeling, forecasting, applied econometrics, data analysis, and financial markets.
 
 I use data, models, and analytical tools to study economic conditions, monitor global developments, and assess their implications for emerging markets and the Dominican Republic 🇩🇴.
