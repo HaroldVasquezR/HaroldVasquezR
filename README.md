@@ -1,3 +1,5 @@
+<img width="223" height="223" alt="images" src="https://github.com/user-attachments/assets/8f9c19a5-fa12-4f38-958c-5cbb5c7f0854" />
+
 <!-- Inserta aquí comentarios ocultos -->
 ## Hi there 👋
 
