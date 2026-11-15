@@ -58,7 +58,7 @@ You can find lectures and course content on my YouTube channel:
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/haroldvasquez/) · [X](https://x.com/haroldvasquez) · [Website](https://haroldvasquez.do) · [YouTube](https://www.youtube.com/@Harold.Vasquez) · [Email](mailto:email@haroldvasquez.do)
+[LinkedIn](https://www.linkedin.com/in/haroldvasquez/) · [X](https://x.com/haroldvasquez) · [Workflow](https://haroldvasquezr.github.io) · [Website](https://haroldvasquez.do) · [YouTube](https://www.youtube.com/@Harold.Vasquez) · [Email](mailto:email@haroldvasquez.do)
 
 ---
 
